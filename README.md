@@ -1,7 +1,7 @@
 # React Router demo
 ## [React Router](https://reactrouter.com/)
 
-## run
+## Run
 ``` node
 yarn install
 yarn dev
