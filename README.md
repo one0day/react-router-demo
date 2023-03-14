@@ -2,7 +2,7 @@
 ## [React Router](https://reactrouter.com/)
 
 ## Run
-``` node
+```
 yarn install
 yarn dev
 ```
